@@ -16,7 +16,20 @@
 <hr>
 
 ## ⚡ Technologies
+  
+ <p float="left">
+  <a href="https://www.postgresql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+  </a>
+  <a href="https://www.timescale.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+  </a>
+</p>
 
+<!-- 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,6 +41,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-<hr>
+<hr> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghad6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
